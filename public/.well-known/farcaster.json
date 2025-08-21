@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "CreatorConnect is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://8688bda2-e4e8-4fb1-995b-7453891680cb.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://8688bda2e4e84fb1995b7453891680cb-3dcf-3skjb20i8-vistara.vercel.app",
+    "splashImageUrl": "https://8688bda2e4e84fb1995b7453891680cb-3dcf-3skjb20i8-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://8688bda2e4e84fb1995b7453891680cb-3dcf-3skjb20i8-vistara.vercel.app/image.png",
     "tagline": "CreatorConnect",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://8688bda2e4e84fb1995b7453891680cb-3dcf-3skjb20i8-vistara.vercel.app/screenshot.png",
+      "https://8688bda2e4e84fb1995b7453891680cb-3dcf-3skjb20i8-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://8688bda2-e4e8-4fb1-995b-7453891680cb.vistara.dev/api/webhook"
+    "webhookUrl": "https://8688bda2e4e84fb1995b7453891680cb-3dcf-3skjb20i8-vistara.vercel.app/api/webhook"
   }
 }
